@@ -3,7 +3,7 @@
 ## Membros atuais do grupo de estudos
 
  * Dr. [Renato Augusto Corrêa dos Santos](https://scholar.google.com.br/citations?user=22CKgnIAAAAJ)
- * João Otavio Mochiuti
+ * [João Otavio Mochiuti](https://github.com/j-x-mochiuti-x)
 
 ## Identitidade visual
 
