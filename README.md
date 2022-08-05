@@ -8,6 +8,8 @@
  * [Davi Xavier](https://github.com/davixavier528)
  * [Raquel Santos](https://github.com/arquels7)
  * [Mylena Santos Moreira](https://github.com/MylenaSM)
+ * [Lara Vitória](https://github.com/larav1)
+ * [Afonso Martin Melazzo](https://github.com/afonsoufscar)
 
 ## Identitidade visual
 
