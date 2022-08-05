@@ -7,6 +7,7 @@
  * Doutoranda [Rafaella Ferraz](https://github.com/RafaellaFerraz)
  * [Davi Xavier](https://github.com/davixavier528)
  * [Raquel Santos](https://github.com/arquels7)
+ * [Mylena Santos Moreira](https://github.com/MylenaSM)
 
 ## Identitidade visual
 
