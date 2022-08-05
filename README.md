@@ -11,3 +11,4 @@
 
 ## Identitidade visual
 
+ * [Logo](https://github.com/bioinfomeetingsonlinebr/bioinfomeetingsonlinebr_generalorg/tree/main/IdentidadeVisual/Logo_BioinfoMeetingsOnlineBR), criado pelo [João Otavio Mochiuti](https://github.com/j-x-mochiuti-x).
